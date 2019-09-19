@@ -1,4 +1,4 @@
-# course1_android_studio
+# submission1_android_studio
 Tempat naruh file latihan untuk course dicoding
 
 Om Awignamastu namah siddham,
