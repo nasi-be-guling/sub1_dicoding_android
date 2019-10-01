@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 public class PilemDesc implements Parcelable {
-    private String judulPilem
+    private String judulPilem;
     private String kilasPilem;
     private String nilaiPilem;
     private String kruPilem;

@@ -1,20 +1,22 @@
 <resources>
-    <string name="app_name">KilasPilem</string>
+
+
+    <array name="pilem_poster">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_mortalengine</item>
+    </array>
 
     <string name="pilem_name">Nama Pilem</string>
 
-    <string-array name="pilem_judul">
-        <item>Aquaman</item>
-        <item>Bumblebee</item>
-        <item>Bird Box</item>
-        <item>Spider-Man: Into the Spider-Verse</item>
-        <item>Creed</item>
-        <item>Dragon Ball Super: Broly</item>
-        <item>How to Train Your Dragon: The Hidden World</item>
-        <item>Venom</item>
-        <item>Glass</item>
-        <item>Mortal Engines</item>
-    </string-array>
+    <string name="app_name">KilasPilem</string>
 
     <string-array name="pilem_cuplikan">
         <item>Salah seorang ulama dan khatib terkemuka di Masjid Besar Kasultanan Yogyakarta pada masa itu, dan ibu dari K.H. Ahmad Dahlan adalah puteri dari H. Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta Hadiningrat pada masa itu. KH. Ahmad Dahlan telah mempelopori kebangkitan ummat Islam untuk menyadari nasibnya sebagai bangsa terjajah yang masih harus belajar dan berbuat. </item>
@@ -29,16 +31,16 @@
         <item>Tan Malaka atau Ibrahim gelar Datuk Sutan Malaka (lahir di Nagari Pandam Gadang, Suliki, Lima Puluh Kota, Sumatera Barat, 2 Juni 1897 – meninggal di Desa Selopanggung, Kediri, Jawa Timur, 21 Februari 1949 pada umur 51 tahun) adalah seorang pembela kemerdekaan Indonesia, tokoh Partai Komunis Indonesia, juga pendiri Partai Murba, dan merupakan salah satu Pahlawan Nasional Indonesia.</item>
     </string-array>
 
-    <array name="pilem_poster">
-        <item>@drawable/poster_aquaman</item>
-        <item>@drawable/poster_bumblebee</item>
-        <item>@drawable/poster_birdbox</item>
-        <item>@drawable/poster_spiderman</item>
-        <item>@drawable/poster_creed</item>
-        <item>@drawable/poster_dragonball</item>
-        <item>@drawable/poster_dragon</item>
-        <item>@drawable/poster_venom</item>
-        <item>@drawable/poster_glass</item>
-        <item>@drawable/poster_mortalengine</item>
-    </array>
+    <string-array name="pilem_judul">
+        <item>Aquaman</item>
+        <item>Bumblebee</item>
+        <item>Bird Box</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Creed</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Venom</item>
+        <item>Glass</item>
+        <item>Mortal Engines</item>
+    </string-array>
 </resources>
